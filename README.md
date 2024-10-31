@@ -9,7 +9,7 @@
 6. [Infojobs, requisitos de la oferta](#Infojobs,-requisitos-de-la-oferta)
 7. [Opinión sobre la oferta empleo](#Opinión-sobre-la-oferta-empleo)
 
-## Introducción
+## Introducción.
 <p align="justify">
 La filosofía DevOps es una metodología para creación de software basada en la integración entre desarrolladores de software y administradores de sistemas, permitiendo fabricar software más rápidamente, con mayor calidad, menor coste y una altísima frecuencia de releases, siendo el objetivo final minimizar el riesgo de los cambios que se producen en las entregas y dar así, un mayor valor tanto a los clientes como al propio negocio.
 <div align="center">  
@@ -22,4 +22,17 @@ IaC reduce la complejidad y el esfuerzo de gestionar infraestructura, mejorando 
 La monitorización y el logging, permiten identificar problemas y optimizar el rendimiento, jugando un papel clave en garantizar la seguridad y la resiliencia del sistema.
 La cultura colaborativa promueve la comunicación abierta entre los equipos que deben colaborar en todo el ciclo de vida del software, desde la planificación hasta la implementación y el mantenimiento. 
 </p>
+## Las herramientas más populares para cada fase del ciclo de DevOps.
+
+
+
+
+
+
+
+
+
+
+
+
 
