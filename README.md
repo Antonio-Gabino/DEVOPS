@@ -13,3 +13,4 @@
 <p align="justify">
 La filosofía DevOps es una metodología para creación de software basada en la integración entre desarrolladores de software y administradores de sistemas, permitiendo fabricar software más rápidamente, con mayor calidad, menor coste y una altísima frecuencia de releases, siendo el objetivo final minimizar el riesgo de los cambios que se producen en las entregas y dar así, un mayor valor tanto a los clientes como al propio negocio.
 </p>
+![DevOps](https://github.com/Antonio-Gabino/DEVOPS/blob/main/img/DevOps.png?raw=true)
