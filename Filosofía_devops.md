@@ -22,11 +22,12 @@ En vista de que ahorra tiempo y potencia la calidad, ya tienes razones más que 
 
 - Sus ventajas principales son las siguientes:
 
-Potencia y optimiza la entrega de productos y servicios digitales.
-Ayuda a resolver problemas sin muchos percances y sin complejidades.
-Alcanza una mayor escalabilidad y mejora la disponibilidad
-Los entornos de funcionamiento serán mucho más sólidos y estables.
-Sirve para manejar los recursos con eficacia y no malgastarlos.
-Asegura una visualización efectiva de los resultados.
-Da paso a la innovación.
-Permite una automatización total.
+1. Potencia y optimiza la entrega de productos y servicios digitales.
+2. Ayuda a resolver problemas sin muchos percances y sin complejidades.
+3. Alcanza una mayor escalabilidad y mejora la disponibilidad
+4. Los entornos de funcionamiento serán mucho más sólidos y estables.
+5. Sirve para manejar los recursos con eficacia y no malgastarlos.
+6. Asegura una visualización efectiva de los resultados.
+7. Da paso a la innovación.
+8. Permite una automatización total.
+   
