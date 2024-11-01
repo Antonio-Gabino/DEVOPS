@@ -1,5 +1,7 @@
 # DevOps
 
+![Colaboracion](https://github.com/Antonio-Gabino/DEVOPS/blob/main/img/Colaboracion.jpg?raw=true)
+
 ## ¿Por qué apostar por esta filosofía?.
 
 DevOps es una metodología que busca romper las barreras entre los equipos de desarrollo de software y las operaciones de tecnología. La idea principal es que ambos trabajen juntos de forma más coordinada y automatizada para crear y entregar software de mejor calidad y con mayor rapidez.
