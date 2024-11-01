@@ -4,7 +4,7 @@
 ## Índice
 
 1. [Las herramientas más populares para cada fase del ciclo de DevOps](#las-herramientas-más-populares-para-cada-fase-del-ciclo-de-DevOps)
-2. [Fase de Control de Código Fuente](#Fase-de-Control-de-Codigo-Fuente)
+2. [Fase de Control de Código Fuente](#Fase-de-Control-de-Código-Fuente)
 3. [Fase de Integración Contínua (CI)](#Fase-de-Integración-Continua)
 4. [Empresas y casos reales de implementación de DevOps](#Empresas-y-casos-reales-de-implementación-dedevops)
 5. [Infojobs, oferta empleo DevOps](#Infojobs,-oferta-empleo-DevOps)
