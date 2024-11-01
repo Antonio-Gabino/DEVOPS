@@ -1,4 +1,7 @@
 # DEVOPS
+![Herramientas](https://github.com/Antonio-Gabino/DEVOPS/blob/main/img/Herramientas.jpg?raw=true)
+
+
   
 ## Las herramientas más populares para cada fase del ciclo de DevOps.
 <div align="justify"> 
