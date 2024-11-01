@@ -42,9 +42,11 @@ A continuación, te mostramos las definiciones sobre cada uno:
 - Agile: Proceso que agiliza la planificación, desarrollo y resultados de un software. Mejora la calidad, genera mayor compromiso, se trabaja rápidamente y aumenta la productividad de manera significativa.
 - Automatización: La automatización permite ahorrar carga de trabajo en los técnicos y facilita y agiliza la salida de los desarrollos.
 
+## ¿Merece la pena implementar DevOps en tu empresa?
 
+DevOps es una filosofía que te ayuda a ahorrar tiempo, obtener mejores resultados, maximizar la calidad y a mantener contentos tanto a tus empleados como a los clientes. En definitiva, es el momento de darle un cambio a tu metodología de trabajo y así disfrutar de una empresa más eficiente.
 
-
+Bibliografía: https://www.hiberus.com/crecemos-contigo/que-es-devops-y-por-que-apostar-por-esta-filosofia/
 
 
 
