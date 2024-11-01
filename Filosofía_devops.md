@@ -46,7 +46,7 @@ A continuación, te mostramos las definiciones sobre cada uno:
 
 DevOps es una filosofía que te ayuda a ahorrar tiempo, obtener mejores resultados, maximizar la calidad y a mantener contentos tanto a tus empleados como a los clientes. En definitiva, es el momento de darle un cambio a tu metodología de trabajo y así disfrutar de una empresa más eficiente.
 
-Bibliografía: https://www.hiberus.com/crecemos-contigo/que-es-devops-y-por-que-apostar-por-esta-filosofia/
+*Bibliografía*: https://www.hiberus.com/crecemos-contigo/que-es-devops-y-por-que-apostar-por-esta-filosofia/
 
 
 
