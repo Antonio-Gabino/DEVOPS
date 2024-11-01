@@ -5,7 +5,7 @@
 
 1. [Las herramientas más populares para cada fase del ciclo de DevOps](#las-herramientas-más-populares-para-cada-fase-del-ciclo-de-DevOps)
 2. [Fase de Control de Código Fuente](#Fase-de-Control-de-Código-Fuente)
-3. [Fase de Integración Contínua (CI)](#Fase-de-Integración-Continua (CI))
+3. [Fase de Integración Contínua (CI)](#Fase-de-Integración-Continua CI)
 4. [Empresas y casos reales de implementación de DevOps](#Empresas-y-casos-reales-de-implementación-dedevops)
 5. [Infojobs, oferta empleo DevOps](#Infojobs,-oferta-empleo-DevOps)
 6. [Infojobs, requisitos de la oferta](#Infojobs,-requisitos-de-la-oferta)
@@ -21,7 +21,7 @@
 <em>GitHub, GitLab y Bitbucket</em> son plataformas basadas en Git que también ofrecen características como revisión de código, CI/CD y gestión de proyectos.   
 <strong>IDEs</strong> (Entornos de Desarrollo Integrados): Como Visual Studio Code, IntelliJ IDEA, Eclipse, que proporcionan un entorno completo para escribir, depurar y probar código.
 
-### Fase de Integración Continua (CI).
+### Fase de Integración Continua CI.
    
 <strong>Jenkins</strong> es un servidor de automatización de código abierto (open-source) que permite construir, probar e implementar software de forma repetible. 
 **CircleCI, Travis CI, GitLab CI/CD**, plataformas de CI en la nube que ofrecen una configuración más rápida y fácil, permitiendo integrar, probar y desplegar código de manera automática. 
