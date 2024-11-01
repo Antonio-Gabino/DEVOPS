@@ -14,7 +14,7 @@
 ## Las herramientas más populares para cada fase del ciclo de DevOps.
 <div align="justify"> 
   
- #Fase de Control de Código Fuente.
+ ## Fase de Control de Código Fuente.
   
 <strong>Git</strong> es el sistema de control de versiones más utilizado, permitiendo a los desarrolladores rastrear cambios en el código, colaborar y crear ramas. 
 <em>GitHub, GitLab y Bitbucket</em> son plataformas basadas en Git que también ofrecen características como revisión de código, CI/CD y gestión de proyectos.   
