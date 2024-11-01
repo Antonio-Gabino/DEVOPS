@@ -1,10 +1,10 @@
 # DevOps
 
-## ¿Por qué apostar por esta filosofía?
+## ¿Por qué apostar por esta filosofía?.
 
 DevOps es una metodología que busca romper las barreras entre los equipos de desarrollo de software y las operaciones de tecnología. La idea principal es que ambos trabajen juntos de forma más coordinada y automatizada para crear y entregar software de mejor calidad y con mayor rapidez.
 
-## ¿En qué consiste DevOps?
+## ¿En qué consiste DevOps?.
 
 DevOps es un marco de trabajo, pero más que eso una filosofía en constante evolución que busca optimizar la producción. Para ello promueve la comunicación, integración, visibilidad y colaboración entre todos los departamentos que forman parte de una empresa.
 
@@ -16,7 +16,7 @@ Es una metodología para el desarrollo de software, y no una profesión, cultura
 Permite la integración entre los administradores de sistemas y desarrolladores de software.
 Ayuda a desarrollar programas y aplicaciones de mayor calidad con menos costos y gastando menos tiempo.
 
-## ¿Por qué utilizar la filosofía DevOps en tu empresa?
+## ¿Por qué utilizar la filosofía DevOps en tu empresa?.
 
 En vista de que ahorra tiempo y potencia la calidad, ya tienes razones más que suficientes para implementar esta modalidad en tu compañía. Pero sus beneficios van mucho más allá, ya que los expertos indican que incluso los mismos clientes estarán mucho más satisfechos con los productos.
 
@@ -31,3 +31,23 @@ En vista de que ahorra tiempo y potencia la calidad, ya tienes razones más que 
 7. Da paso a la innovación.
 8. Permite una automatización total.
    
+## Metodología de DevOps.
+
+Dentro de esta filosofía vas a encontrar diferentes tipos de métodos para aplicar en una empresa. Todos ellos tienen el mismo objetivo: mejorar y acelerar el desarrollo de productos.
+
+A continuación, te mostramos las definiciones sobre cada uno:
+
+- Scrum: Hace que todo el equipo colabore para conseguir los resultados en menos tiempo y con mayor calidad.
+- Kanban: Gestiona las tareas desde su puesta en marcha hasta su finalización.
+- Agile: Proceso que agiliza la planificación, desarrollo y resultados de un software. Mejora la calidad, genera mayor compromiso, se trabaja rápidamente y aumenta la productividad de manera significativa.
+- Automatización: La automatización permite ahorrar carga de trabajo en los técnicos y facilita y agiliza la salida de los desarrollos.
+
+
+
+
+
+
+
+
+
+
