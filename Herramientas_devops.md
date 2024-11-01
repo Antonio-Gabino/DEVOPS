@@ -65,7 +65,7 @@ Junit es un popular framework de pruebas unitarias para Java, que permite a los 
 
 |                                         |    Tabla de Herramientas DevOps                 |                                                                          |
 |-----------------------------------------|-------------------------------------------------|--------------------------------------------------------------------------|
-|                Fase                     |          Herramientas Clave                     |                            Descripción                                   |                                                      | Control de Código Fuente  | Git, IDEs   | Gestión de versiones, colaboración en el código |                                                                          | 
+|                Fase                     |          Herramientas Clave                     |                            Descripción                                   |                                                     | Control de Código Fuente  | Git, IDEs   | Gestión de versiones, colaboración en el código |                                                                          | 
 | Integración Continua (CI)               | Jenkins, CircleCI, Travis CI, etc.              | Automatización de la construcción, pruebas y despliegue                  | 
 | Gestión Configuración e Infraestructura | Ansible, Chef, Puppet                           | Automatización de la configuración de sistemas y aplicaciones            |
 | Construcción y Empaquetado              | Docker, Packer                                  | Creación y gestión de contenedores y imágenes                            | 
