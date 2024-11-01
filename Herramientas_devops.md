@@ -1,8 +1,5 @@
 # DEVOPS
-
-## Índice
-1. [Las herramientas más populares para cada fase del ciclo de DevOps](#las-herramientas-más-populares)
-   
+  
 ## Las herramientas más populares para cada fase del ciclo de DevOps.
 <div align="justify"> 
   
