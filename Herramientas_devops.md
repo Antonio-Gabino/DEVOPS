@@ -48,3 +48,18 @@ Selenium realiza pruebas automatizadas para aplicaciones web, permitiendo a los 
 Junit es un popular framework de pruebas unitarias para Java, que permite a los desarrolladores escribir y ejecutar pruebas de código a nivel unitario, asegurando que cada parte funcione correctamente.
 </div>
 
+|--------------------------------------------------------------------------------------------------------------------------------|
+|                                              Tabla de Herramientas DevOps                                                      | 
+|-----------------------------------------|------------------------------------|-------------------------------------------------|
+|                Fase                     |          Herramientas Clave        |         Descripción                             |      
+|-----------------------------------------|------------------------------------|-------------------------------------------------|
+| Control de Código Fuente                |           Git, IDEs                | Gestión de versiones, colaboración en el código |                               |-----------------------------------------|------------------------------------|-------------------------------------------------| 
+|                                         |                                    |                                                 |
+|-----------------------------------------|------------------------------------|-------------------------------------------------|
+| Gestión Configuración e Infraestructura |                                    |                                                 |
+|                                         |                                    |                                                 |
+|                                         |                                    |                                                 |
+|                                         |
+|                                         |
+|                                         |
+
