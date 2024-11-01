@@ -51,4 +51,5 @@ Cheque restaurante
 
 > Inscribirme en esta oferta.
 
-![Inscribirme en esta oferta](https://www.infojobs.net/madrid/azure-devops-engineer-ansible/of-i0ab3cb1886495b93def6a9d0f5e5d9?applicationOrigin=search-new&page=1&sortBy=RELEVANCE)
+[Inscribirme en esta oferta](https://www.infojobs.net/madrid/azure-devops-engineer-ansible/of-i0ab3cb1886495b93def6a9d0f5e5d9?applicationOrigin=search-new&page=1&sortBy=RELEVANCE)
+
