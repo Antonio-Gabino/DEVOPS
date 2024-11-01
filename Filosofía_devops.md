@@ -1,7 +1,7 @@
 # DevOps
 
 <div align="center">
-![Colaboracin](https://github.com/Antonio-Gabino/DEVOPS/blob/main/img/Colaboracion.jpg?raw=true)
+<img src="img/Colaboracion.jpg" alt="DevOps" width="600" height="auto">
 </div>
 
 ## ¿Por qué apostar por esta filosofía?.
