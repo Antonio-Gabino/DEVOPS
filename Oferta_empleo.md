@@ -53,7 +53,7 @@ Cheque restaurante
 
 ![Bluetab an IBM Company](https://github.com/Antonio-Gabino/DEVOPS/blob/main/img/Bluetab%20an%20IBM%20Company.png?raw=true)
 
-## Ofertas de trabajo en Bluetab y IBM
+## Ofertas de trabajo en Bluetab y IBM.
 [Bluetab Solutions](https://bluetab.ofertas-trabajo.infojobs.net/)
 
-[](https://www.bluetab.net/es/)
+[Bluetab](https://www.bluetab.net/es/)
