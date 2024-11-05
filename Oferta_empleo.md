@@ -8,7 +8,7 @@
 
 |             Detalles de la oferta                    |                Detalles de la oferta                   |
 |------------------------------------------------------|--------------------------------------------------------|
-|                Requisitos                            |         Requisitos mínimos-Experiencia                 |                                                                                                                | Ciclo F. Grado Superior Informática y Comunicaciones | Sólida en aprovisionamiento con Ansible                |  
+|                Requisitos                            |         Requisitos mínimos-Experiencia                 |                                                                                                             | Ciclo F. Grado Superior Informática y Comunicaciones | Sólida en aprovisionamiento con Ansible                |  
 | Experiencia mínima al menos de 3 años                | Entornos Cloud de Azure DevOps                         | 
 | Imprescindible residente en España                   | En scripting con Python y/o Shell Script               |
 | Inglés nivel intermedio                              | Conocimiento en contenedores como Docker y/o Vagrant   | 
@@ -37,7 +37,6 @@ Informática y telecomunicaciones - Arquitectura
 Empleado/a
 
 <strong>Número de vacantes:</strong>
-1
 
 <strong>Salario:</strong>
 Salario no disponible
